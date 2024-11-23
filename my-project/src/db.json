@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "customerId": 1,
+      "title": "HP1 Pavilion Laptop Computer 16 WQXGA Intel Core i7 16 GB memory, 512 GB SSD",
+      "description": "Processor: Intel® Core™ i7-13700H (up to 5.0 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 14 cores, 20 threads\nStorage: 512 GB PCIe® Gen4 NVMe™ TLC M.2 SSD\nMemory: 16 GB LPDDR5x-5200 MT/s (onboard)\nGraphics: Integrated: Intel® Iris® Xᵉ Graphics\nDisplay: 16 diagonal, WQXGA (2560 x 1600), 48-120 Hz, IPS, micro-edge, anti-glare, Low Blue Light, 400 nits, 100% sRGB",
+      "photopath": "l1",
+      "cartStatus": false,
+      "wishlist": false,
+      "actualprice": 1200,
+      "discountprice": 800
+    },
+    {
+      "id": "2",
+      "customerId": 1,
+      "title": "HP2 Pavilion Laptop Computer 16 WQXGA Intel Core i7 16 GB memory, 512 GB SSD",
+      "description": "Processor: Intel® Core™ i7-13700H (up to 5.0 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 14 cores, 20 threads\nStorage: 512 GB PCIe® Gen4 NVMe™ TLC M.2 SSD\nMemory: 16 GB LPDDR5x-5200 MT/s (onboard)\nGraphics: Integrated: Intel® Iris® Xᵉ Graphics\nDisplay: 16 diagonal, WQXGA (2560 x 1600), 48-120 Hz, IPS, micro-edge, anti-glare, Low Blue Light, 400 nits, 100% sRGB",
+      "photopath": "l1",
+      "cartStatus": false,
+      "wishlist": false,
+      "actualprice": 1200,
+      "discountprice": 800
+    },
+    {
+      "id": "3",
+      "customerId": 1,
+      "title": "HP3 Pavilion Laptop Computer 16 WQXGA Intel Core i7 16 GB memory, 512 GB SSD",
+      "description": "Processor: Intel® Core™ i7-13700H (up to 5.0 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 14 cores, 20 threads\nStorage: 512 GB PCIe® Gen4 NVMe™ TLC M.2 SSD\nMemory: 16 GB LPDDR5x-5200 MT/s (onboard)\nGraphics: Integrated: Intel® Iris® Xᵉ Graphics\nDisplay: 16 diagonal, WQXGA (2560 x 1600), 48-120 Hz, IPS, micro-edge, anti-glare, Low Blue Light, 400 nits, 100% sRGB",
+      "photopath": "l1",
+      "cartStatus": true,
+      "wishlist": false,
+      "actualprice": 1200,
+      "discountprice": 800
+    },
+    {
+      "id": "4",
+      "customerId": 1,
+      "title": "HP4 Pavilion Laptop Computer 16 WQXGA Intel Core i7 16 GB memory, 512 GB SSD",
+      "description": "Processor: Intel® Core™ i7-13700H (up to 5.0 GHz with Intel® Turbo Boost Technology, 24 MB L3 cache, 14 cores, 20 threads\nStorage: 512 GB PCIe® Gen4 NVMe™ TLC M.2 SSD\nMemory: 16 GB LPDDR5x-5200 MT/s (onboard)\nGraphics: Integrated: Intel® Iris® Xᵉ Graphics\nDisplay: 16 diagonal, WQXGA (2560 x 1600), 48-120 Hz, IPS, micro-edge, anti-glare, Low Blue Light, 400 nits, 100% sRGB",
+      "photopath": "l1",
+      "cartStatus": true,
+      "wishlist": false,
+      "actualprice": 1200,
+      "discountprice": 800
+    }
+  ],
+  "cartItems": [
+    {
+      "customerId": "1",
+      "productId": "3",
+      "quantity": 3,
+      "id": "3"
+    },
+    {
+      "customerId": "1",
+      "productId": "4",
+      "quantity": 1,
+      "id": "4"
+    }
+  ],
+  "wishlistItems": [
+    {
+      "id": "2",
+      "customerId": 1,
+      "productId": "2"
+    },
+    {
+      "id": "4",
+      "productId": "4",
+      "customerId": 1
+    },
+    {
+      "id": "1",
+      "productId": "1",
+      "customerId": 1
+    }
+
+  ],
+  "orderItems": [
+    {
+      "orderId": 1,
+      "id": "1",
+      "quantity": 2,
+      "subtotal": 1600
+    },
+    {
+      "orderId": 1,
+      "id": "2",
+      "quantity": 1,
+      "subtotal": 800
+    }
+  ],
+  "orders": [
+    {
+      "orderId": 1,
+      "orderStatus": "Shipped",
+      "totalAmount": 500,
+      "orderDate": "2024-12-25",
+      "id": "9a6a"
+    },
+    {
+      "orderId": 2,
+      "orderStatus": "Processing",
+      "totalAmount": 750,
+      "orderDate": "2024-12-28",
+      "id": "30cf"
+    }
+  ]
+}
